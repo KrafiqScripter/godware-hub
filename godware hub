@@ -1,0 +1,7 @@
+if game.PlaceId == 13436905139 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KrafiqScripter/4-a-side/main/4%20a%20side"))()
+else
+    print("game not found")
+end
+
+--more games soon
