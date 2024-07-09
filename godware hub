@@ -1,7 +1,16 @@
 if game.PlaceId == 13436905139 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/KrafiqScripter/4-a-side/main/4%20a%20side"))()
+elseif game.PlaceId == 10279525112 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KrafiqScripter/teaf/main/teaf"))()
 else
     print("game not found")
 end
+
+
+--current games:
+--https://www.roblox.com/games/10279525112/Turkish-Soldier-Simulator
+--https://www.roblox.com/games/13436905139/MPS-4-a-side
+
+
 
 --more games soon
